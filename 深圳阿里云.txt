@@ -24,7 +24,7 @@ CCTV17,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/17/index.m3u8
 江苏国际,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/25/index.m3u8
 江苏教育,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/26/index.m3u8
 聚鲨环球精选,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/28/index.m3u8
-30,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/30/index.m3u8
+家有购物,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/30/index.m3u8
 33,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/33/index.m3u8
 34,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/34/index.m3u8
 35,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/35/index.m3u8
