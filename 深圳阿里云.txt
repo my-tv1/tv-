@@ -19,7 +19,7 @@ CCTV17,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/17/index.m3u8
 江苏综艺,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/20/index.m3u8
 江苏体育,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/21/index.m3u8
 江苏影视,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/22/index.m3u8
-23,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/23/index.m3u8
+优漫卡通,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/23/index.m3u8
 24,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/24/index.m3u8
 25,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/25/index.m3u8
 26,http://5ce084b81e93b8da-web.cswlink.sczhgx.com:8991/hls/26/index.m3u8
